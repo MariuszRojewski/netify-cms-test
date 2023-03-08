@@ -6,23 +6,36 @@ backend:
 media_folder: static/assets
 public_folder: /assets
 
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "-"
+
 collections:
   - name: blog
     label: Blog
     folder: blog
     create: true
     fields:
-      - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
+      - label: "Manual PDF"
+        name: "manual_pdf"
+        widget: "file"
+        default: "/uploads/general-manual.pdf"
+        media_library:
+          widget: datetime
+          required: false
+          config:
+            multiple: true
+            choose_url: false
 
   - name: products
     label: Producty
     folder: products
     create: true
     fields:
-      - { name: path, label: Path }
       - { name: date, label: Date, widget: datetime }
       - { name: title, label: Title }
       - { name: body, label: Body, widget: markdown }
