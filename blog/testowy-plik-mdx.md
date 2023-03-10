@@ -4,5 +4,7 @@ title: Testowy plik mdx
 tags:
   - Design
   - Dev
+thumbnails: /assets/images.jpg
+featured: /assets/images.jpg
 ---
  Testowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdxTestowy plik mdx Testowy plik mdx Testowy plik mdx Testowy plik mdx 123
