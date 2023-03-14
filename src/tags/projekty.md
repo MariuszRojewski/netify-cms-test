@@ -1,3 +1,3 @@
 ---
-name: Projekty
+name: Strony internetowe
 ---
