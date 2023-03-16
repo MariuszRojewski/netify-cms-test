@@ -1,3 +1,3 @@
 ---
-name: testowa druga kategoria
+name: News
 ---
